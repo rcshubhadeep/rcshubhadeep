@@ -2,7 +2,7 @@
 
 I am Shubhadeep. My Experience ranges in different directions. Machine Learning, Web Development, Data Engineering, Game Development and many more. I am interested in Mathematics and Computer Science. 
 
-- 🔭 I’m currently working on ... Working on Maritime Data at Kpler
+- 🔭 I’m currently working on ... State of the Art NLP, Transformers, GPT-3, Extraction, Vector Search and likes.
 - 👯 I’m looking to collaborate on ... Machine Learning
 
 <p align="center">
